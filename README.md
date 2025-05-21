@@ -1,1 +1,1 @@
-Tried Mistral mmodel over single table of my database
+Mistral mmodel over nodedata table of postgres db
