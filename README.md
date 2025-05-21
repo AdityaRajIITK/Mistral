@@ -1,1 +1,1 @@
-Mistral mmodel over nodedata table of postgres db
+Mistral model over nodedata table of postgres db for nl to sql
